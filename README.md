@@ -1,2 +1,2 @@
 # JavaRepository
-Repository for hosting my Java experiments
+Repository for hosting my Java codes
